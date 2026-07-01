@@ -1,5 +1,7 @@
 # Agentic Research Assistant (RAG + LangGraph + Tool Calling)
 
+<img width="1413" height="794" alt="Screenshot 2026-07-01 at 16 24 06" src="https://github.com/user-attachments/assets/fa3a62b8-cce9-4477-9a82-ce8ac67b2c23" />
+
 An end-to-end GenAI app: upload PDFs, ask questions grounded in them, and
 fall back to web search / a calculator / general chat when the docs don't
 have the answer — all routed automatically by a LangGraph agent, with
