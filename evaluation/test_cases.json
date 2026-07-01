@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the main topic of the document?",
+    "expected_answer": "Replace with the real summary of your PDF's topic.",
+    "expected_keywords": ["replace", "with", "real", "keywords"]
+  },
+  {
+    "question": "Replace with another real question about your document",
+    "expected_answer": "Replace with the real expected answer",
+    "expected_keywords": ["keyword1", "keyword2"]
+  }
+]
